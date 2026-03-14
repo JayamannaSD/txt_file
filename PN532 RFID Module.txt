@@ -1,0 +1,8 @@
+PN532 RFID Module:
+While on the other hand, the PN532 NFC RFID Module V3 is a very powerful and flexible RFID module. It can be used for many different applications such as access control, time attendance systems, animal identification, inventory management, and more.
+
+It uses less power than the MFRC522 because its parts are designed for low-power consumption and it is also more flexible than the MFRC522. It has additional features such as support for a wider range of frequencies, making it easier to read tags from more angles without having to move your antenna around.
+
+It is compatible with all ISO 14443 A and B standards, as well as the NXP’s MIFARE® Classic 1k and 4k chips. The PN532 has a high-speed SPI interface and is firmware upgradeable via an AT command set. It can read tags at up to 8m (27ft) with an active antenna and 10cm (3.9in) with a passive one. You can even use the PN532 in Linux or Mac OS X thanks to its open source drivers!
+
+The PN532 also has an I2C interface, HSU “High Speed UART”, and SPI, which makes it easy to use in embedded applications. So, If you’re looking for a more advanced RFID reader module, the PN532 is a good choice.It can pretty much do it all, such as read and write to tags and cards, communicate with phones (say for payment processing), and ‘act’ like an NFC tag. If you want to do any sort of embedded NFC work, this is the chip you’ll want to use!
